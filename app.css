@@ -1,0 +1,15 @@
+body {
+    font-family: 'red hat display';
+}
+
+#card {
+    padding-top: 75px;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+
+h5 {
+    font-weight: 900;
+    padding-top: 1.25rem;
+    padding-bottom: 1rem;
+}
