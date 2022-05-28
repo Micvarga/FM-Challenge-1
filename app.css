@@ -1,0 +1,67 @@
+body {
+    font-family: 'red hat display';
+}
+
+#card {
+    padding-top: 75px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+h4 {
+    font-weight: 900;
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+}
+
+#cardmessage {
+    padding-bottom: 1.25rem;
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+    font-size: medium;
+    font-weight: 300;
+
+
+}
+
+#planselector {
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    width: 85%;
+    margin-left: 15px;
+    font-size: 14px;
+}
+
+#change {
+    padding-top: .5rem;
+    text-decoration: underline;
+}
+
+#paymentbtn {
+    padding-top: 1.75rem;
+
+}
+
+#payment {
+    padding-right: 4.5rem;
+    padding-left: 4.5rem;
+    padding-top: .75rem;
+    padding-bottom: .75rem;
+
+}
+
+#cancelbtn {
+    padding-top: 1rem;
+    padding-bottom: .5rem;
+    font-weight: 700;
+}
+
+#plantitle {
+    font-weight: 700;
+    font-size: 14px;
+}
+
+#centercol {
+    padding-left: 0px;
+    padding-right: 25px;
+}
