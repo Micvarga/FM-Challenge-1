@@ -28,3 +28,13 @@ h5 {
 #change {
     padding-top: .5rem;
 }
+
+#paymentbtn {
+    padding-top: 2rem;
+}
+
+#cancelbtn {
+    padding-top: 1.5rem;
+    padding-bottom: 1rem;
+    font-weight: 600;
+}
