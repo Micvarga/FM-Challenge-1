@@ -15,6 +15,7 @@ body {
 #card {
     border: solid-light;
     border-radius: 25px;
+    background-color: #f1e3fc;
 }
 
 #image {
@@ -43,6 +44,9 @@ h4 {
     width: 285px;
     margin-left: 10px;
     font-size: 14px;
+    background-color: #e9ccfc;
+
+
 }
 
 #change {
