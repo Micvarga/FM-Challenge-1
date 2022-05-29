@@ -34,7 +34,7 @@
   <div class="container-fluid" id="section">
     <div class="card text-center" id="card">
       <img src="/images/illustration-hero.svg" class="img-fluid" alt="man listing to music and dancing" id="image">
-      <div class="card-body">
+      <div class="card-body" id="cardbody">
         <div class="row">
           <div class="col">
             <h4 class="card-title">Order Summary</h4>
@@ -61,10 +61,13 @@
         </div>
         <div class="row" id="paymentbtn">
           <div class="col">
-            <button class="btn btn-primary" id="payment">Proceed to Payment</button>
+            <button class="btn btn-primary" role="button" data-bs-toggle="button" id="payment">Proceed to
+              Payment</button>
           </div>
           <div class="row" id="cancelbtn">
-            <div class="col"> Cancel Order</div>
+            <div class="col">
+              Cancel Order
+            </div>
           </div>
         </div>
       </div>

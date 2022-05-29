@@ -16,11 +16,18 @@ body {
     border: solid-light;
     border-radius: 25px;
     background-color: #f1e3fc;
+    color: #47297b;
+}
+
+#cardbody {
+    padding: 23px 0px;
+
 }
 
 #image {
     border-radius: 25px 25px 0 0;
 }
+
 
 h4 {
     font-weight: 900;
@@ -30,28 +37,29 @@ h4 {
 
 #cardmessage {
     padding-bottom: 1.25rem;
-    padding-left: 1.5rem;
-    padding-right: 1.5rem;
-    font-size: medium;
+    padding-left: 2.5rem;
+    padding-right: 2.5rem;
+    font-size: 16px;
     font-weight: 300;
-
-
+    color: #47297b;
 }
 
 #planselector {
     padding-top: .5rem;
     padding-bottom: .5rem;
     width: 285px;
-    margin-left: 10px;
+    margin-left: 30px;
+    margin-right: 0px;
     font-size: 14px;
     background-color: #e9ccfc;
-
-
+    color: #54318c
 }
 
 #change {
     padding-top: .5rem;
     text-decoration: underline;
+    font-weight: 900;
+    color: #753696;
 }
 
 #paymentbtn {
@@ -60,16 +68,18 @@ h4 {
 }
 
 #payment {
-    padding-right: 4.5rem;
-    padding-left: 4.5rem;
+    padding-right: 4.25rem;
+    padding-left: 4.25rem;
     padding-top: .75rem;
     padding-bottom: .75rem;
+    font-weight: 550;
 
 }
 
 #cancelbtn {
     padding-top: 1rem;
     padding-bottom: .5rem;
+    color: red;
     font-weight: 700;
 }
 
@@ -80,9 +90,4 @@ h4 {
 
 #icon {
     padding: 0px;
-}
-
-#centercol {
-    /* padding-left: 0px;
-    padding-right: 25px; */
 }
