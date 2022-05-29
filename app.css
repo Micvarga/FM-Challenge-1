@@ -38,10 +38,10 @@ h4 {
 }
 
 #planselector {
-    padding-top: 1rem;
-    padding-bottom: 1rem;
-    width: 85%;
-    margin-left: 15px;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+    width: 285px;
+    margin-left: 10px;
     font-size: 14px;
 }
 
@@ -70,11 +70,15 @@ h4 {
 }
 
 #plantitle {
-    font-weight: 500;
-    font-size: 14px;
+    font-weight: 900;
+    font-size: 15px;
+}
+
+#icon {
+    padding: 0px;
 }
 
 #centercol {
-    padding-left: 0px;
-    padding-right: 25px;
+    /* padding-left: 0px;
+    padding-right: 25px; */
 }
