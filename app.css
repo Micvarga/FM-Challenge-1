@@ -1,7 +1,7 @@
 body {
     font-family: 'Red Hat Display', sans-serif;
     background-image: url(/images/luke-chesser-eICUFSeirc0-unsplash.jpg);
-    height: 200%;
+    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -9,7 +9,7 @@ body {
 
 .panel {
     margin-top: 75px;
-    background-color: aqua;
+    background-color: #DEC9E9;
     border: hidden;
     border-radius: 15px;
 
@@ -36,10 +36,11 @@ h3 {
 }
 
 .plandetails {
+    background-color: #D2B7E5;
     text-align: center;
     align-items: center;
     margin-top: 1rem;
-    border: solid;
+    border: hidden;
     border-radius: 1rem
 }
 
