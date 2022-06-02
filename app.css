@@ -53,12 +53,29 @@ h3 {
     font-size: 15px;
 }
 
-.change {
-    color: #6247AA;
+.changebtn {
+    color: #815AC0;
     font-size: 14px;
     font-weight: 900;
+    background-color: #D2B7E5;
+    border: hidden;
+}
+
+.changebtn:hover {
+    color: #6247AA;
+    font-size: 15px;
+    text-decoration: underline;
+    transition: .5s;
+
+
+}
+
+.changebtn:focus {
+    color: #6247AA;
+    font-size: 15px;
     text-decoration: underline;
 }
+
 
 .btn-primary {
     margin-top: 25px;
