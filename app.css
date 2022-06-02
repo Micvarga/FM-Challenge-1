@@ -84,10 +84,20 @@ h3 {
 }
 
 
-
-.cancel {
+.cancelbtn {
     text-align: center;
     font-weight: 700;
     font-size: 15x;
     cursor: pointer;
+    border: hidden;
+    background-color: #DEC9E9;
+}
+
+.cancelbtn:hover {
+    color: red;
+    transition: .5s;
+}
+
+.cancelbtn:focus {
+    color: red;
 }
