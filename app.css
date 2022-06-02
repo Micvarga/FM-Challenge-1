@@ -2,6 +2,19 @@
     background-color: aqua;
 }
 
-.container {
+.panelTitle {
+    text-align: center;
+}
+
+.pitchmessage {
+    text-align: center;
+}
+
+.plandetails {
+    text-align: center;
+    align-items: center;
+}
+
+.cancel {
     text-align: center;
 }
