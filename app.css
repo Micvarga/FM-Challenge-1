@@ -35,6 +35,11 @@ h3 {
     margin-top: .5rem;
 }
 
+.plantitle {
+    font-size: medium;
+    font-weight: 700;
+}
+
 .plandetails {
     background-color: #D2B7E5;
     text-align: center;
@@ -42,6 +47,17 @@ h3 {
     margin-top: 1rem;
     border: hidden;
     border-radius: 1rem
+}
+
+.price {
+    font-size: 15px;
+}
+
+.change {
+    color: #6247AA;
+    font-size: 14px;
+    font-weight: 900;
+    text-decoration: underline;
 }
 
 .btn-primary {
