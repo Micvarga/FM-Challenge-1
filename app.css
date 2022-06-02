@@ -4,16 +4,22 @@
 
 .panelTitle {
     text-align: center;
+    margin-top: 2rem;
+
 }
 
 .pitchmessage {
     text-align: center;
+    margin-top: .5rem;
 }
 
 .plandetails {
     text-align: center;
     align-items: center;
+    margin-top: 1rem;
 }
+
+.payment {}
 
 .cancel {
     text-align: center;
