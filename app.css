@@ -44,7 +44,7 @@ h3 {
     background-color: #D2B7E5;
     text-align: center;
     align-items: center;
-    margin-top: 1rem;
+    margin-top: .5rem;
     border: hidden;
     border-radius: 1rem
 }
@@ -88,7 +88,7 @@ h3 {
     font-weight: 700;
     font-size: 15px;
     cursor: pointer;
-
+    box-shadow: 5px 10px 15px #C19EE0, -10px 10px 15px #C19EE0;
 }
 
 .btn-primary:hover {
