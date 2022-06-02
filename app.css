@@ -17,6 +17,8 @@
     text-align: center;
     align-items: center;
     margin-top: 1rem;
+    border: solid;
+    border-radius: 1rem
 }
 
 .payment {}
