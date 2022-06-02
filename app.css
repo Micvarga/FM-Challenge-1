@@ -65,11 +65,17 @@ h3 {
     width: 96%;
     padding-left: 5px;
     padding-right: 5px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 15px;
+    background-color: blue;
 
 }
 
 .cancel {
     text-align: center;
+    font-weight: 700;
+    font-size: 15x;
 }
