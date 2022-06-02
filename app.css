@@ -3,6 +3,7 @@
 }
 
 .panel {
+    margin-top: 75px;
     background-color: aqua;
     border: hidden;
     border-radius: 15px;
