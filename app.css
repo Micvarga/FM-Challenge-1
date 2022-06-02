@@ -1,93 +1,53 @@
-body {
-    font-family: 'red hat display';
-    background-image: url(/images/luke-chesser-eICUFSeirc0-unsplash.jpg);
-    height: 200%;
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding-left: .75rem;
-    padding-right: .75rem;
-    padding-top: 4rem;
-    padding-bottom: 4rem;
+.body {
+    font-family: 'Red Hat Display', sans-serif;
 }
 
-
-#card {
-    border: solid-light;
-    border-radius: 25px;
-    background-color: #f1e3fc;
-    color: #47297b;
-}
-
-#cardbody {
-    padding: 23px 0px;
+.panel {
+    margin-top: 75px;
+    background-color: aqua;
+    border: hidden;
+    border-radius: 15px;
 
 }
 
-#image {
-    border-radius: 25px 25px 0 0;
+.panelimage {
+    border: hidden;
+    border-radius: 15px 15px 0px 0px;
 }
 
-
-h4 {
-    font-weight: 900;
-    padding-top: 1rem;
-    padding-bottom: .5rem;
-}
-
-#cardmessage {
-    padding-bottom: 1.25rem;
-    padding-left: 2.5rem;
-    padding-right: 2.5rem;
-    font-size: 16px;
-    font-weight: 300;
-    color: #47297b;
-}
-
-#planselector {
-    padding-top: .5rem;
-    padding-bottom: .5rem;
-    width: 285px;
-    margin-left: 30px;
-    margin-right: 0px;
-    font-size: 14px;
-    background-color: #e9ccfc;
-    color: #54318c
-}
-
-#change {
-    padding-top: .5rem;
-    text-decoration: underline;
-    font-weight: 900;
-    color: #753696;
-}
-
-#paymentbtn {
-    padding-top: 1.75rem;
-
-}
-
-#payment {
-    padding-right: 4.25rem;
-    padding-left: 4.25rem;
-    padding-top: .75rem;
-    padding-bottom: .75rem;
-    font-weight: 550;
-
-}
-
-#cancelbtn {
-    padding-top: 1rem;
-    padding-bottom: .5rem;
-    color: red;
+h3 {
     font-weight: 700;
 }
 
-#plantitle {
-    font-weight: 900;
-    font-size: 15px;
+.panelTitle {
+    text-align: center;
+    margin-top: 2rem;
+
 }
 
-#icon {
-    padding: 0px;
+.pitchmessage {
+    text-align: center;
+    margin-top: .5rem;
+}
+
+.plandetails {
+    text-align: center;
+    align-items: center;
+    margin-top: 1rem;
+    border: solid;
+    border-radius: 1rem
+}
+
+.btn-primary {
+    margin-top: 25px;
+    width: 96%;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.cancel {
+    text-align: center;
 }
