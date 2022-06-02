@@ -1,10 +1,9 @@
 body {
     font-family: 'Red Hat Display', sans-serif;
     background-image: url(/images/luke-chesser-eICUFSeirc0-unsplash.jpg);
-    height: 100%;
     background-position: center;
     background-repeat: no-repeat;
-    background-size: cover;
+    background-size: 100% 200%;
 }
 
 .panel {
