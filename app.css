@@ -1,5 +1,13 @@
+.body {
+    font-family: 'Red Hat Display', sans-serif;
+}
+
 .panel {
     background-color: aqua;
+}
+
+h3 {
+    font-weight: 700;
 }
 
 .panelTitle {
